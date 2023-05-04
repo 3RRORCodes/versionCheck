@@ -1,1 +1,1 @@
-{"version":"2.3", "notes":"New Update"}
+{"version":"2.3", "notes":"Fading effects improved, characters no longer fall off/into water, and taxi driver driving style fixed and added to config file."}
