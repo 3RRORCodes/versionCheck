@@ -1,1 +1,1 @@
-{"version":"2.4", "notes":"Fading effects improved, characters no longer fall off/into water, and taxi driver driving style fixed and added to config file."}
+{"version":"2.5", "notes":"Fixed all potential vulnerabilities, allowed customization of qb-core name, and resolved taxi lock exploit."}
