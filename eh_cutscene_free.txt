@@ -1,1 +1,1 @@
-{"version":"2.5", "notes":"Fixed all potential vulnerabilities, allowed customization of qb-core name, and resolved taxi lock exploit."}
+{"version":"2.6", "notes":"Added close menu for QB-Apartment users."}
