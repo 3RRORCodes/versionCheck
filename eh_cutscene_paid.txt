@@ -1,1 +1,1 @@
-{"version":"2.6.6", "notes":"Added Cutscene started/ended function for hiding hud, aprt menu."}
+{"version":"2.6.5", "notes":"Added Cutscene started/ended function for hiding hud, aprt menu."}
