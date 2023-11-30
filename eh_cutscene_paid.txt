@@ -1,1 +1,1 @@
-{"version":"2.6", "notes":"Fixed all potential vulnerabilities, allowed customization of qb-core name, and resolved taxi lock exploit, and added bag animation."}
+{"version":"2.6.6", "notes":"Added Cutscene started/ended function for hiding hud, aprt menu."}
