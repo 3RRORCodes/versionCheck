@@ -3,6 +3,14 @@
         "version": "1.2.0",
         "notes": "Refactored entire code."
     },
+    "eh_gn_apartment": {
+        "version": "1.0.0",
+        "notes": "Custom Project - Beta."
+    },
+    "eh_elevator": {
+        "version": "1.0.0",
+        "notes": "Beta."
+    },
     "eh_cutscene_free": {
         "version":"2.6.5", 
         "notes":"Added Cutscene started/ended function for hiding hud, aprt menu."
