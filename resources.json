@@ -18,5 +18,9 @@
     "eh_cutscene_paid": {
         "version": "2.6.5",
         "notes": "Added Cutscene started/ended function for hiding hud, aprt menu."
+    },
+    "eh_versionguard": {
+        "version": "1.0.0",
+        "notes": "A small step towards protecting our server."
     }
 }
