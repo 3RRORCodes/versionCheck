@@ -12,12 +12,12 @@
         "notes": "Beta."
     },
     "eh_cutscene_free": {
-        "version":"2.6.5", 
-        "notes":"Added Cutscene started/ended function for hiding hud, aprt menu."
+        "version":"3.0.0", 
+        "notes":"Full reworked and imporved version with new features."
     },
     "eh_cutscene_paid": {
-        "version": "2.6.5",
-        "notes": "Added Cutscene started/ended function for hiding hud, aprt menu."
+        "version": "3.0.0",
+       "notes": "Fully reworked and improved version with new features."
     },
     "eh_antirelease_shield": {
         "version": "1.0.0",
