@@ -12,11 +12,11 @@
         "notes": "Beta."
     },
     "eh_cutscene_free": {
-        "version":"3.0.0", 
+        "version":"3.0.1", 
          "notes": "Fully reworked and improved version with new features."
     },
     "eh_cutscene_paid": {
-        "version": "3.0.0",
+        "version": "3.0.1",
        "notes": "Fully reworked and improved version with new features."
     },
     "eh_antirelease_shield": {
