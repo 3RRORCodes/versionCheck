@@ -12,12 +12,12 @@
         "notes": "Beta."
     },
     "eh_cutscene_free": {
-        "version":"3.0.1", 
-         "notes": "Fully reworked and improved version with new features."
+        "version":"3.0.2", 
+         "notes": "Fully reworked and improved version with new features, Fixed taxi blip issue."
     },
     "eh_cutscene_paid": {
-        "version": "3.0.1",
-       "notes": "Fully reworked and improved version with new features."
+        "version": "3.0.2",
+       "notes": "Fully reworked and improved version with new features, Fixed taxi blip issue."
     },
     "eh_antirelease_shield": {
         "version": "1.1.0",
