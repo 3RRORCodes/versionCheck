@@ -11,13 +11,13 @@
         "version": "1.0.0",
         "notes": "Beta."
     },
-    "eh_cutscene_free": {
-        "version":"3.0.2", 
-         "notes": "Fully reworked and improved version with new features, Fixed taxi blip issue."
+   "eh_cutscene_free": {
+        "version": "3.1.0",
+        "notes": "Added support for any multiplayer/NPC passenger model. Fixed passenger outfit application for freemode models so it now works correctly during cutscenes."
     },
     "eh_cutscene_paid": {
-        "version": "3.0.2",
-       "notes": "Fully reworked and improved version with new features, Fixed taxi blip issue."
+        "version": "3.1.0",
+        "notes": "Added support for any multiplayer/NPC passenger model. Fixed passenger outfit application for freemode models so it now works correctly during cutscenes."
     },
     "eh_antirelease_shield": {
         "version": "1.2.0",
@@ -28,5 +28,6 @@
        "notes": ""
     },
 }
+
 
 
