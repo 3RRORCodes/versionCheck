@@ -13,12 +13,11 @@
     },
    "eh_cutscene_free": {
         "version": "3.2.0",
-        "notes": "Passenger models are now fixed/preselected; changing passenger ped models is no longer supported.\nPassenger clothing remains configurable.\nClothing now applies reliably during cutscenes for the passenger."
+        "notes": "- Passenger models are now fixed/preselected; changing passenger ped models is no longer supported.\n- Passenger clothing remains configurable.\n- Clothing now applies reliably during cutscenes for the passenger."
     },
     "eh_cutscene_paid": {
         "version": "3.2.0",
-        "notes": "Passenger models are now fixed/preselected; changing passenger ped models is no longer supported.\nPassenger clothing remains configurable.\nClothing now applies reliably during cutscenes for the passenger."
-    },
+        "notes": "- Passenger models are now fixed/preselected; changing passenger ped models is no longer supported.\n- Passenger clothing remains configurable.\n- Clothing now applies reliably during cutscenes for the passenger."
     "eh_antirelease_shield": {
         "version": "1.2.0",
        "notes": "Optimized to support low-end PCs—users with slower computers should no longer experience timeouts when joining the server."
@@ -28,6 +27,7 @@
        "notes": ""
     },
 }
+
 
 
 
