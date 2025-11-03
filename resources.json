@@ -1,16 +1,4 @@
 {
-    "eh_codekit": {
-        "version": "1.2.0",
-        "notes": "Refactored entire code."
-    },
-    "eh_gn_apartment": {
-        "version": "1.0.0",
-        "notes": "Custom Project - Beta."
-    },
-    "eh_elevator": {
-        "version": "1.0.0",
-        "notes": "Beta."
-    },
     "eh_cutscene_free": {
         "version": "3.2.0",
         "notes": "- Passenger models are now fixed/preselected; changing passenger ped models is no longer supported.\n- Passenger clothing remains configurable.\n- Clothing now applies reliably during cutscenes for the passenger."
@@ -25,6 +13,6 @@
     },
     "eh_raycrest_restaurant": {
         "version": "1.0.0",
-        "notes": ""
+        "notes": "An advanced script for Raycrest Restaurant with a food delivery system."
     }
 }
