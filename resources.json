@@ -12,12 +12,12 @@
         "notes": "Beta."
     },
    "eh_cutscene_free": {
-        "version": "3.1.0",
-        "notes": "Added support for any multiplayer/NPC passenger model. Fixed passenger outfit application for freemode models so it now works correctly during cutscenes."
+        "version": "3.2.0",
+        "notes": "Passenger models are now fixed/preselected; changing passenger ped models is no longer supported.\nPassenger clothing remains configurable.\nClothing now applies reliably during cutscenes for the passenger."
     },
     "eh_cutscene_paid": {
-        "version": "3.1.0",
-        "notes": "Added support for any multiplayer/NPC passenger model. Fixed passenger outfit application for freemode models so it now works correctly during cutscenes."
+        "version": "3.2.0",
+        "notes": "Passenger models are now fixed/preselected; changing passenger ped models is no longer supported.\nPassenger clothing remains configurable.\nClothing now applies reliably during cutscenes for the passenger."
     },
     "eh_antirelease_shield": {
         "version": "1.2.0",
@@ -28,6 +28,7 @@
        "notes": ""
     },
 }
+
 
 
 
