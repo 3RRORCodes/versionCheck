@@ -12,9 +12,10 @@
         "notes": "Optimized to support low-end PCs—users with slower computers should no longer experience timeouts when joining the server."
     },
     "raycrest_restaurant_job": {
-        "version": "1.0.0",
-        "notes": "Advanced restaurant job script with integrated food delivery system — free upgrade coming soon for current users. Join our Discord: https://discord.gg/Eux7CJEQN2"
+        "version": "1.1.0",
+        "notes": "Fixed QBox player status not updating and consumable animation issues. Full update details available on our Discord: https://discord.gg/Eux7CJEQN2"
     }
 }
+
 
 
