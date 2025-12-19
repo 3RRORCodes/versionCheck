@@ -1,10 +1,10 @@
 {
   "eh_cutscene_free": {
-    "version": "3.3.0",
+    "version": "3.2.5",
     "notes": "- Fixed passenger skin color application issues.\n- Fixed passenger hair style and color not applying correctly.\n- Added face customization support (face blending).\n- Added configuration guide with explanations for all options.\n- Improved clothing system reliability.\n- Updated component system for better compatibility."
   },
   "eh_cutscene_paid": {
-    "version": "3.3.0",
+    "version": "3.2.5",
     "notes": "- Fixed passenger skin color application issues.\n- Fixed passenger hair style and color not applying correctly.\n- Added face customization support (face blending).\n- Added configuration guide with explanations for all options.\n- Improved clothing system reliability.\n- Updated component system for better compatibility."
   },
   "eh_antirelease_shield": {
@@ -16,3 +16,4 @@
     "notes": "Fixed QBox player status not updating and consumable animation issues. Full update details available on our Discord: https://discord.gg/Eux7CJEQN2"
   }
 }
+
